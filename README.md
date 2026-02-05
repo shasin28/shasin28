@@ -1,67 +1,68 @@
-<div align="center">
+# Shalini Singh 🌸
+Software Engineer · Builder · Curious Mind  
+<sub>curious · dependable · chaotic-good</sub>
 
-# Hi, I'm Shalini Singh 🌸  
-### Software Engineer | Builder | Curious Mind
-curious, dependable, chaotic-good
-
-[![Follow on GitHub](https://img.shields.io/github/followers/shasin28?label=Follow&style=social)](https://github.com/shasin28)
-
-</div>
+[![GitHub followers](https://img.shields.io/github/followers/shasin28?label=Follow&style=social)](https://github.com/shasin28)
+[![Profile views](https://komarev.com/ghpvc/?username=shasin28&style=flat&color=grey)](https://github.com/shasin28)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheisshalini)
 
 ---
 
-✨ I enjoy building things that are **useful, scalable, and thoughtfully designed**.  
-From enterprise systems to personal experiments, I love turning ideas into clean, working software.
+## ✨ About
+I build useful, scalable, and thoughtfully designed software — from enterprise systems to personal experiments. I care deeply about clarity, reliability, and elegant user interfaces.
+
+- 💻 Software Engineer — MEAN stack & Java  
+- 🏗️ Experienced with enterprise-grade applications and system design  
+- 🚀 Exploring AI/ML, Android, and distributed systems  
+- 🎯 Women Techmakers Ambassador  
+- 💬 Ask me about Angular, Java, REST APIs, frontend architecture  
+- ✈️ Passion for aviation, storytelling & polished interfaces
 
 ---
 
-## 🌱 A little about me
-- 💻 Software Engineer working with **MEAN stack & Java**
-- 🏗️ Experience building **enterprise-grade applications**
-- 🚀 Exploring **AI/ML, Android development & system design**
-- 🎯 **Women Techmakers Ambassador**
-- 💬 Happy to chat about **Angular, Java, REST APIs & architecture**
-- ✈️ Soft spot for aviation, storytelling & elegant UI
+## 🔍 Quick highlights
+- Strong frontend architecture experience (Angular + TypeScript) and backend Java/Node proficiency
+- Built and shipped enterprise features with observability, testing, and CI/CD
+- Mentor and community contributor — focused on inclusive technical leadership
 
 ---
 
-## 🧩 Tech I enjoy working with
-<div align="center">
+## 🧩 Tech & Tools
+Languages:  
+![Java](https://skillicons.dev/icons?i=java) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![Python](https://skillicons.dev/icons?i=python) ![C++](https://skillicons.dev/icons?i=cpp)
 
-![My Skills](https://skillicons.dev/icons?i=angular,react,typescript,java,nodejs,c++,mongodb,mysql,azure,docker,git)
+Frontend:  
+![Angular](https://skillicons.dev/icons?i=angular) ![React](https://skillicons.dev/icons?i=react) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css)
 
-</div>
+Backend / DB:  
+![NodeJS](https://skillicons.dev/icons?i=nodejs) ![Spring](https://skillicons.dev/icons?i=spring) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql)
+
+Cloud / DevOps:  
+![Azure](https://skillicons.dev/icons?i=azure) ![Docker](https://skillicons.dev/icons?i=docker) ![Git](https://skillicons.dev/icons?i=git) ![Postman](https://skillicons.dev/icons?i=postman)
 
 ---
 
 
-## 📊 GitHub at a glance
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shasin28&show_icons=true&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shasin28&layout=compact)
-
-</div>
+## 📊 GitHub snapshot
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shasin28&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shasin28&layout=compact&theme=tokyonight)
 
 ---
 
 ## ✍️ Thought for the day
-<div align="center">
+> Build things. Break things. Learn fast. Repeat.
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
-
-</div>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal" alt="quote" />
 
 ---
 
-## 🤝 Let’s connect
-- 💼 LinkedIn: https://www.linkedin.com/in/sheisshalini
-- 🧑‍💻 GitHub: https://github.com/shasin28
+## 🤝 Connect
+- LinkedIn: https://www.linkedin.com/in/sheisshalini  
+- GitHub: https://github.com/shasin28  
+- Email: (add your email here)
 
 ---
 
 <div align="center">
-
-✨ *Build things. Break things. Learn fast. Repeat.* ✨
-
+✨ Build things. Break things. Learn fast. Repeat. ✨
 </div>
