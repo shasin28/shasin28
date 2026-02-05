@@ -59,7 +59,6 @@ Cloud / DevOps:
 ## 🤝 Connect
 - LinkedIn: https://www.linkedin.com/in/sheisshalini  
 - GitHub: https://github.com/shasin28  
-- Email: (add your email here)
 
 ---
 
