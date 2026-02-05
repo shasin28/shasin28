@@ -43,12 +43,6 @@ Cloud / DevOps:
 ---
 
 
-## 📊 GitHub snapshot
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shasin28&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shasin28&layout=compact&theme=tokyonight)
-
----
-
 ## ✍️ Thought for the day
 > Build things. Break things. Learn fast. Repeat.
 
