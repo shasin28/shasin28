@@ -11,7 +11,7 @@ Software Engineer · Builder · Curious Mind
 ## ✨ About
 I build useful, scalable, and thoughtfully designed software — from enterprise systems to personal experiments. I care deeply about clarity, reliability, and elegant user interfaces.
 
-- 💻 Software Engineer — MEAN stack & Java  
+- 💻 Software Engineer : MEAN stack & Java  
 - 🏗️ Experienced with enterprise-grade applications and system design  
 - 🚀 Exploring AI/ML, Android, and distributed systems  
 - 🎯 Women Techmakers Ambassador  
@@ -21,9 +21,9 @@ I build useful, scalable, and thoughtfully designed software — from enterprise
 ---
 
 ## 🔍 Quick highlights
-- Strong frontend architecture experience (Angular + TypeScript) and backend Java/Node proficiency
+- Strong fullstack experience (Angular + TypeScript) and backend Java proficiency
 - Built and shipped enterprise features with observability, testing, and CI/CD
-- Mentor and community contributor — focused on inclusive technical leadership
+- Mentor and community contributor, focused on inclusive technical leadership
 
 ---
 
